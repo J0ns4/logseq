@@ -1,0 +1,5 @@
+#+TITLE: another thing
+
+** something
+** [[ a link ]]
+**
