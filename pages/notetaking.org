@@ -1,0 +1,4 @@
+#+TITLE: notetaking
+
+** [[another thing]]
+** asdas
